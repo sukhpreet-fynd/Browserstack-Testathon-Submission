@@ -42,3 +42,15 @@ This was not working during testhathon ？？？？？
 
 
 
+
+
+
+# 🔍 UI Issue Identified in Test Management Tool
+
+## Section: Test Cases → Generate with AI
+
+🐞 Incorrect Cursor (Text Pointer) Alignment in Prompt Input Box
+The text cursor inside the prompt input field is not positioned correctly, causing visual misalignment when typing.
+📎 Reference video: https://drive.google.com/file/d/1BIupGIxyGeT9vw8QJjfur4hniUKRsChM/view?usp=sharing
+Reference image: https://drive.google.com/file/d/1hYLmLNegI43W8xmxywZHC3yGXhVSq6aA/view?usp=sharing
+
